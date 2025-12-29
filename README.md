@@ -198,8 +198,6 @@ Complex scenarios involving multiple networks, routers, and routing paths. Integ
 
 3. **Table Formatting**: AI generated the subnet mask reference table and formatted it for clarity and easy reference during exercises.
 
-4. **Resource Compilation**: AI helped identify and organize relevant official documentation (RFCs), learning resources, and tutorials appropriate for the NetPractice project scope.
-
 5. **Content Review**: AI assisted in ensuring technical accuracy of networking terminology and concepts presented in the documentation.
 
 **Parts Completed Without AI**:
